@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 100px;
+    background-color: #f7f6f6f5; /* Warna latar belakang lembut */
+}
+
+header {
+    text-align: center;
+    background-color: #ac8a43; /*untuk header */
+    color: white;
+    padding: 20px;
+}
+
+
+section {
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #333;
+}
+
+.experience-item {
+    border-left: 5px solid #beb750; /* Garis samping */
+    padding-left: 10px;
+}
+
+.skills {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.skill {
+    background-color: #e0e0e0;
+}
+
+h2 {
+   margin-bottom: 5px;
+}
